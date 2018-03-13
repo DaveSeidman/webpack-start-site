@@ -3,7 +3,7 @@
 Start by installing all dependencies:  
 `npm i` . 
 
-Then you can run development like this:
+Then you can run development like this:  
 `npm run dev`  
 This will run webpack-dev-server where you can test things out in the browser at http://localhost:8080  
 
